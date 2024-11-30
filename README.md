@@ -1,2 +1,2 @@
-# cportfolio
-This is a portfolio repo
+# Portfolio
+This is my portfolio website
